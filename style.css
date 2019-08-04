@@ -1,0 +1,173 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+
+
+main{
+background-color:white;
+width: 960px;
+margin-right: auto;
+margin-left: auto;
+display: block;
+padding: 0px;
+margin-top: 0px;
+margin-bottom: 0px
+}
+
+
+
+header{
+background-color: #00722d;
+display: block;
+height: 200px;
+width: 960px;
+padding-top: 7px;
+margin-right: auto;
+margin-left: auto;
+text-align: center;
+}
+
+body {
+    background-image: url("folk-pattern-black.png");
+    display: flex;
+    justify-content: center;
+    }
+
+
+
+.title1{
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+
+.quote1{
+
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        padding-top: 10px
+}
+
+
+#video{
+    width: 960px;
+    padding-top: 0px;
+    padding-bottom: 60px;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.gmbrfiturpertama{
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 100px;
+    padding-bottom: 60px;
+    padding-left: 100px;
+}
+
+.introduction{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-top: 0px;
+    padding-right: 100px;
+    padding-bottom: 60px;
+    padding-left: 100px;
+}
+
+.conicon{
+    padding-top: 10px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.divider{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+    width: 100%;
+}
+
+.headingarea{
+    font-family: 'PT Serif', serif;
+    text-align: center;
+}
+
+.featureLeftRight {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: medium;
+	width: 100%;
+}
+.featureLeftRight .leftSide {
+    font-family: 'Cormorant Upright', serif;
+	padding-left: 70px;
+	padding-right: 10px;
+	width: 50%;
+}
+.featureLeftRight .rightSide {
+    font-family: 'Cormorant Upright', serif;
+	padding-left: 10px;
+	padding-right: 70px;
+	width: 50%;
+}
+.rightSide img {
+	float: left;
+	margin-left: 5px;
+}
+.leftSide img {
+	float: right;
+	margin-right: 5px;
+}
+
+.featureLeftRight h3 {
+	font-size: x-large;
+	margin-bottom: 5px;
+	font-family: 'Cormorant Upright', serif;
+	font-weight: 600;
+    margin-top: 5px;
+    padding-left: 20px;
+}
+.featureLeftRight .bodyText {
+	font-family: 'Cormorant Upright', serif;
+	font-size: medium;
+    font-weight: 400;
+    
+    
+}
+
+.callToActionArea {
+	display: block;
+	background-color: #13b397;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.download{
+    font-family: 'Dosis', sans-serif;
+    color: white;
+}
+
+
+footer {
+    background-color: #383b3e;
+    height: 150px;
+    width: 960px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    footer p {
+    color: #acacac;
+    font-size: 15px;
+    }
+
